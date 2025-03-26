@@ -4,25 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tech Website</title>
+
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+    </style>
+
 </head>
 <body>
-    <header>
-        <section class="bg-red-700 ">
-            <div>
-                <a href="#"><img src="Images/TExhogo.jpg"></a>
+    <header class="content-top h-[800px] bg-[url(/Images/bg_desktop-footer.jpg)] bg-no-repeat bg-cover bg-right-bottom" >
+        <section class="w-[1400px] m-auto">
+            <div class="h-[100px] items-center flex justify-between m-auto justify-items-center">
+                <div>
+                    <a href="#"><img src="Images/TExhogo.jpg"></a>
+                </div>
+                <div>
+                    <ul class="font-medium flex text-white">
+                        <li><a href="#" class="m-[30px]">Engineering</a></li>
+                        <li><a href="#" class="m-[30px]">DevOps & Cybersecurity</a></li>
+                        <li><a href="#" class="m-[30px]">Tech Staffing</a></li>
+                        <li><a href="#" class="m-[30px]">Case Studies</a></li>
+                        <li><a href="#" class="m-[30px]">Company</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <a href="#" class="bg-[#7c82c5] text-white font-medium p-[15px] rounded-full ml-[20px] mr-[20px]"><button>Schedule Consultation</button></a>
+                </div>
             </div>
-            <div>
-                <ul bg-red-700>
-                    <li>Software Engineering</li>
-                    <li>DevOps & Cybersecurity</li>
-                    <li>Tech Staffing</li>
-                    <li>Case Studies</li>
-                    <li>Company</li>
-                </ul>
-            </div>
-            <div>
-                <a href="#"><button>Schedule Consultation</button></a>
+            <div class="flex items-center margin-auto mt-[100px]">
+                <div class="w-[55%]">
+                    <h4 class="text-white">Software Engineering and Managed Cloud Services</h4>
+                    <h1 class="text-[65px] text-white font-bold text-4xl/[1.2em] ">You know your business. <br> know the cloud.</h1>
+                    <p class="text-white">We partner with your business to simplify complex problems using technology to enable you to do things today you couldn’t do yesterday.</p>
+                    <a href="#"><button>Talk to us</button></a>
+                    <a href="#"><button>Success stories</button></a>
+                </div>
+                <div class="w-[45%]">
+                    <img src="Images/hero_art.svg">
+                </div>
+
             </div>
         </section>
 
