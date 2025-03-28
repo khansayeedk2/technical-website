@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 14</title>
+    <defs>
+        <linearGradient x1="85.7939385%" y1="14.8290134%" x2="13.9929945%" y2="86.3299187%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="51.371582%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-766.000000, -1171.000000)">
+            <g id="pain-points" transform="translate(80.000000, 943.000000)">
+                <g id="Group-14" transform="translate(686.000000, 228.000000)">
+                    <rect id="Rectangle" fill="#398EFE" x="0" y="0" width="42" height="42" rx="4"></rect>
+                    <path d="M23.0004578,5.84450888 L23.0004578,9.08865845 L30.861097,9.08865845 L21.8559141,18.1114832 L24.1471609,20.4058618 L32.7118024,11.8233067 L32.7118024,19.4268837 L35.9521566,19.4268837 L35.9521566,5.84450888 L23.0004578,5.84450888 Z M9.19035122,29.8646293 L9.19035122,22.2621341 L5.95215658,22.2621341 L5.95215658,35.8445089 L18.9027756,35.8445089 L18.9027756,32.5992776 L11.0421364,32.5992776 L20.0473193,23.5775345 L17.7571523,21.283156 L9.19035122,29.8646293 Z" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

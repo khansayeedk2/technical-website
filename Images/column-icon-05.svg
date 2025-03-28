@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 16</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-110.000000, -1499.000000)">
+            <g id="pain-points" transform="translate(80.000000, 943.000000)">
+                <g id="Group-16" transform="translate(30.000000, 556.000000)">
+                    <rect id="Rectangle" fill="#711EFF" x="0" y="0" width="42" height="42" rx="4"></rect>
+                    <g id="icon" transform="translate(10.000000, 8.000000)" fill="#FFFFFF">
+                        <path d="M11,0 L0,2.50284211 L0,14.4861053 C0,19.5 7.22318804,23.7106316 11,26" id="Fill-1" opacity="0.4"></path>
+                        <path d="M11,0 L22,2.50284211 L22,14.4861053 C22,19.5 14.776812,23.7106316 11,26" id="Fill-4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

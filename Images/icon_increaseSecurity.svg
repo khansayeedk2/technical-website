@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 20</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1094.000000, -1499.000000)">
+            <g id="Group-20" transform="translate(1094.000000, 1499.000000)">
+                <rect id="Rectangle" fill="#0B8CD8" x="0" y="0" width="42" height="42" rx="4"></rect>
+                <g id="Group-7" transform="translate(11.000000, 7.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" points="0 28 19.4632373 28 19.4632373 10.4275862 0 10.4275862"></polygon>
+                    <g id="Group-6" transform="translate(2.972918, 0.000000)">
+                        <path d="M0,6.75862069 C0,3.02627181 3.02627181,0 6.75862069,0 C10.4909696,0 13.5172414,3.02627181 13.5172414,6.75862069 L13.5172414,7.94575254 L10.8137931,7.94575254 L10.8137931,6.75862069 C10.8137931,4.51873428 8.9985071,2.70344828 6.75862069,2.70344828 C4.51873428,2.70344828 2.70344828,4.51873428 2.70344828,6.75862069 L2.70344828,10.8137931 L0,10.8137931 L0,6.75862069 Z" id="Fill-2" fill="#FFFFFF"></path>
+                        <polyline id="Fill-4" fill="#61BEF5" points="5.40689655 15.6993103 5.40689655 22.7282759 8.11034483 22.7282759 8.11034483 15.6993103"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

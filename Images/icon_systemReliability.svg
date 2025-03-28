@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 18</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-438.000000, -1499.000000)">
+            <g id="Group-18" transform="translate(438.000000, 1499.000000)">
+                <rect id="Rectangle" fill="#931EFF" x="0" y="0" width="42" height="42" rx="4"></rect>
+                <g id="Group-5" transform="translate(7.000000, 7.000000)">
+                    <path d="M28,14 C28,6.26788235 21.7321176,0 14,0 C6.26788235,0 0,6.26788235 0,14 C0,21.7321176 6.26788235,28 14,28 C21.7312941,28 28,21.7321176 28,14" id="Fill-1" fill="#FFFFFF"></path>
+                    <polygon id="Fill-3" fill="#931EFF" points="14.8815059 3.61101176 14.8815059 13.5419529 20.3192706 18.8232471 19.0065647 20.1754824 12.9964471 14.3383059 12.9964471 3.61101176"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

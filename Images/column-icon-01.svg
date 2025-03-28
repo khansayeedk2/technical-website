@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <defs>
+        <linearGradient x1="0%" y1="23.1111111%" x2="66.2234122%" y2="59.2561681%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-110.000000, -1171.000000)">
+            <g id="pain-points" transform="translate(80.000000, 943.000000)">
+                <g id="Group-6" transform="translate(30.000000, 228.000000)">
+                    <rect id="Rectangle" fill="#00B0AF" x="0" y="0" width="42" height="42" rx="4"></rect>
+                    <polygon id="Fill-2" fill="url(#linearGradient-1)" points="36 32 35.851685 23.6988511 32.99709 26.1063083 25.1607998 16.1703013 17.4484183 22.3797095 8.24725429 10 6 11.7245177 16.937764 26.4430089 24.714916 20.1811403 30.8296255 27.9338392 27.9975594 30.321266"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
